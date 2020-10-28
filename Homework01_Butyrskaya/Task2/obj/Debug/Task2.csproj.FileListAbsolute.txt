@@ -1,0 +1,8 @@
+C:\Users\kulec\Desktop\Домашки Geekbrains\Task2\bin\Debug\Task2.exe.config
+C:\Users\kulec\Desktop\Домашки Geekbrains\Task2\bin\Debug\Task2.exe
+C:\Users\kulec\Desktop\Домашки Geekbrains\Task2\bin\Debug\Task2.pdb
+C:\Users\kulec\Desktop\Домашки Geekbrains\Task2\obj\Debug\Task2.exe
+C:\Users\kulec\Desktop\Домашки Geekbrains\Task2\obj\Debug\Task2.pdb
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task2\bin\Debug\Task2.exe.config
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task2\obj\Debug\Task2.exe
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task2\obj\Debug\Task2.pdb

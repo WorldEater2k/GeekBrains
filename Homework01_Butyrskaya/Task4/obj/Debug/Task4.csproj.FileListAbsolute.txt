@@ -1,0 +1,6 @@
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task4\bin\Debug\Task4.exe.config
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task4\bin\Debug\Task4.exe
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task4\bin\Debug\Task4.pdb
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task4\obj\Debug\Task4.exe
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task4\obj\Debug\Task4.pdb
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache

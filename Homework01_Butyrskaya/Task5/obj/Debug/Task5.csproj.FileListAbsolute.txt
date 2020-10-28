@@ -1,0 +1,5 @@
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task5\bin\Debug\Task5.exe.config
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task5\bin\Debug\Task5.exe
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task5\bin\Debug\Task5.pdb
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task5\obj\Debug\Task5.exe
+C:\Users\kulec\Desktop\Домашки Geekbrains\Homework01_Butyrskaya\Task5\obj\Debug\Task5.pdb
