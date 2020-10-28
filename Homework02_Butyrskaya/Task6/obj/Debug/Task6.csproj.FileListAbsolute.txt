@@ -1,0 +1,6 @@
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task6\bin\Debug\Task6.exe.config
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task6\bin\Debug\Task6.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task6\bin\Debug\Task6.pdb
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task6\obj\Debug\Task6.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task6\obj\Debug\Task6.pdb
