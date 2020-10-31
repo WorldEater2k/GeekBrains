@@ -1,0 +1,6 @@
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task2\bin\Debug\Task2.exe.config
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task2\bin\Debug\Task2.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task2\bin\Debug\Task2.pdb
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task2\obj\Debug\Task2.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework02_Butyrskaya\Task2\obj\Debug\Task2.pdb
