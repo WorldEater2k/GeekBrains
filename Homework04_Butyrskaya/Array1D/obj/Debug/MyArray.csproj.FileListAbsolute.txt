@@ -1,0 +1,6 @@
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Array1D\bin\Debug\Array1D.dll
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Array1D\bin\Debug\Array1D.pdb
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Array1D\obj\Debug\MyArray.csprojAssemblyReference.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Array1D\obj\Debug\MyArray.csproj.CoreCompileInputs.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Array1D\obj\Debug\Array1D.dll
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Array1D\obj\Debug\Array1D.pdb

@@ -1,0 +1,10 @@
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\bin\Debug\Task3.exe.config
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\bin\Debug\Task3.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\bin\Debug\Task3.pdb
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\obj\Debug\Task3.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\obj\Debug\Task3.pdb
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\bin\Debug\Array1D.dll
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\bin\Debug\Array1D.pdb
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task3\obj\Debug\Task3.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task1_2\bin\Debug\Task1_2.exe.config
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task1_2\bin\Debug\Task1_2.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task1_2\bin\Debug\Task1_2.pdb
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task1_2\obj\Debug\Task1_2.csproj.CoreCompileInputs.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task1_2\obj\Debug\Task1_2.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task1_2\obj\Debug\Task1_2.pdb
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework04_Butyrskaya\Task1_2\obj\Debug\Task1_2.csprojAssemblyReference.cache
