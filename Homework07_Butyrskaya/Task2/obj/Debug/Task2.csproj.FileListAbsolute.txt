@@ -1,0 +1,11 @@
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\bin\Debug\Task2.exe.config
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\bin\Debug\Task2.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\bin\Debug\Task2.pdb
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\obj\Debug\Task2.Guessing.resources
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\obj\Debug\Task2.MainForm.resources
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\obj\Debug\Task2.exe
+C:\Users\lizal\Desktop\Домашки GeekBrains\Homework07_Butyrskaya\Task2\obj\Debug\Task2.pdb
